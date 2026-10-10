@@ -1,0 +1,12 @@
+{
+  "name": "ateam-uae-health",
+  "owner": { "name": "ATeam Soft Solutions" },
+  "metadata": { "description": "UAE healthcare compliance plugins from ATeam Soft Solutions." },
+  "plugins": [
+    {
+      "name": "ateam-uae-health-compliance",
+      "source": "./",
+      "description": "Engineering checklist for UAE healthcare compliance: ADHICS v2, Malaffi, NABIDH, Riayati, ICT Health Law, AI and telehealth standards."
+    }
+  ]
+}
